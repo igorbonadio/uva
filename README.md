@@ -8,8 +8,9 @@ The aim is to write efficient well-designed algorithms.
 Solved Problems
 ---------------
 
-- 101 - The Blocks Problem
 - 100 - The 3n + 1 Problem
+- 101 - The Blocks Problem
+- 102 - Ecological Bin Packing
 
 Copyright
 ---------
