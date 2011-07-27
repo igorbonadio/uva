@@ -8,7 +8,7 @@ void PutBuild(int height[], int a, int h, int b) {
       height[i] = h;
 }
 
-void Syline(int height[], int max_x) {
+void Skyline(int height[], int max_x) {
   int h = 0;
   for (int i = 0; i <= max_x; i++) {
     if (height[i] != h) {
@@ -27,6 +27,6 @@ int main() {
     if (b > max_x)
       max_x = b;
   }
-  Syline(height, max_x);
+  Skyline(height, max_x);
   return 0;
 }
