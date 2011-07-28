@@ -12,6 +12,7 @@ Solved Problems
 - 101 - The Blocks Problem
 - 102 - Ecological Bin Packing
 - 105 - The Skyline Problem
+- 106 - Fermat vs. Pythagoras
 
 Copyright
 ---------
