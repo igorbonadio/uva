@@ -13,6 +13,7 @@ Solved Problems
 - 102 - Ecological Bin Packing
 - 105 - The Skyline Problem
 - 106 - Fermat vs. Pythagoras
+- 107 - The Cat in the Hat
 
 Copyright
 ---------
