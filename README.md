@@ -14,6 +14,7 @@ Solved Problems
 - 105 - The Skyline Problem
 - 106 - Fermat vs. Pythagoras
 - 107 - The Cat in the Hat
+- 108 - Maximum Sum
 
 Copyright
 ---------
