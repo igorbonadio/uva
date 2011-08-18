@@ -15,6 +15,7 @@ Solved Problems
 - 106 - Fermat vs. Pythagoras
 - 107 - The Cat in the Hat
 - 108 - Maximum Sum
+- 109 - SCUD Busters
 
 Copyright
 ---------
