@@ -16,6 +16,7 @@ Solved Problems
 - 107 - The Cat in the Hat
 - 108 - Maximum Sum
 - 109 - SCUD Busters
+- 111 - History Grading
 
 Copyright
 ---------
