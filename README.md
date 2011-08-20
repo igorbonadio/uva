@@ -18,6 +18,7 @@ Solved Problems
 - 109 - SCUD Busters
 - 111 - History Grading
 - 112 - Tree Summing
+- 113 - Power of Cryptography
 
 Copyright
 ---------
