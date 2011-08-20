@@ -17,6 +17,7 @@ Solved Problems
 - 108 - Maximum Sum
 - 109 - SCUD Busters
 - 111 - History Grading
+- 112 - Tree Summing
 
 Copyright
 ---------
